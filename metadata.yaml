@@ -1,0 +1,28 @@
+_repo: A-Yeoman-s-LettersThird-Edition_27765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ross, P. T.
+    alias: Ross, Percy T.
+    gutenberg_agent_id: '32896'
+    url: http://www.gutenberg.org/2009/agents/32896
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2009-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+title: 'A Yeoman''s Letters
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/27765
