@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32896'
     url: http://www.gutenberg.org/2009/agents/32896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27765#A-Yeoman-s-LettersThird-Edition
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2009-01-10'
 gutenberg_type: Text
